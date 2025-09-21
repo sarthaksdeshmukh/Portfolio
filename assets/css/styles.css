@@ -290,11 +290,11 @@ img {
   border-radius: 0.5rem;
   z-index: var(--z-back);
 }
-.skills__html {
-  width: 95%;
+.skills__swift {
+  width: 75%;
 }
-.skills__css {
-  width: 85%;
+.skills__dart {
+  width: 70%;
 }
 .skills__js {
   width: 65%;
